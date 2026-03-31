@@ -1,3 +1,5 @@
+***Disclaimer*** Just my opiniated way to containerize this app, keep it minimal.
+___
 <h1 align="center">
 <a href="https://wondercms.com" target="_blank" title="Official WonderCMS website">
     <img src="https://github.com/WonderCMS/wondercms-cdn-files/blob/main/logo.svg?raw=true" alt="WonderCMS logo" title="WonderCMS" align="center" height="150" />
